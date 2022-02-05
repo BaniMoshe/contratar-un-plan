@@ -3,17 +3,14 @@
 Main template file.
 @package CWT-Bootstrap5
 */
+
+#Get the WordPress header file
+get_header();
 ?>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hola Mundo</title>
-</head>
-<body>
-    
-</body>
-</html>
+    <!-- Here's the content area -->
+    <div class="content">
+        HTML content will appear here
+    </div>
+<?php
+get_footer();

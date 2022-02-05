@@ -5,7 +5,9 @@ Footer template file
 */
 ?>
 
-<footer>
-    <!--content from footer template -->
-    
-</footer>
+    <footer>
+        <!--content from footer template -->
+        
+    </footer>
+</body>
+</html>
