@@ -6,7 +6,6 @@ Navigation Header template
 
 */
 
-
 ?>
 
         <header>
@@ -21,31 +20,25 @@ Navigation Header template
                     <li>
                     <a href="#" class="nav-link text-secondary">
                         <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#home"/></svg>
-                        Home
+                        Inicio
                     </a>
                     </li>
                     <li>
                     <a href="#" class="nav-link text-white">
                         <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#speedometer2"/></svg>
-                        Dashboard
-                    </a>
-                    </li>
-                    <li>
-                    <a href="#" class="nav-link text-white">
-                        <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#table"/></svg>
-                        Orders
+                        Medidor
                     </a>
                     </li>
                     <li>
                     <a href="#" class="nav-link text-white">
                         <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#grid"/></svg>
-                        Products
+                        Productos
                     </a>
                     </li>
                     <li>
                     <a href="#" class="nav-link text-white">
                         <svg class="bi d-block mx-auto mb-1" width="24" height="24"><use xlink:href="#people-circle"/></svg>
-                        Customers
+                        Mi cuenta
                     </a>
                     </li>
                 </ul>
