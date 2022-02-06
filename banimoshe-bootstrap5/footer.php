@@ -5,10 +5,12 @@ Footer template file
 */
 ?>
 
-    <footer>
-        <!--content from footer template -->
-        
-    </footer>
+            <footer>
+                <!--content from footer template -->
+                
+            </footer>
+        </div>
+    </div>
     <?php wp_footer(); ?>
 </body>
 </html>
