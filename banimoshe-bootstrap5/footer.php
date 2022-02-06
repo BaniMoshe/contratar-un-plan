@@ -9,5 +9,6 @@ Footer template file
         <!--content from footer template -->
         
     </footer>
+    <?php wp_footer(); ?>
 </body>
 </html>
