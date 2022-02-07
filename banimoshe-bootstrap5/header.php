@@ -1,7 +1,7 @@
 <?php
 /*
 Header template file
-@package CWT-Bootstrap5
+@package CWTBootstrap5
 */
 ?>
 <!DOCTYPE html>

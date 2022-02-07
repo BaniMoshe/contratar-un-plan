@@ -1,7 +1,7 @@
 <?php
 /*
-Main template file.
-@package CWT-Bootstrap5
+Main template file
+@package CWTBootstrap5
 */
 
 #Get the WordPress header file

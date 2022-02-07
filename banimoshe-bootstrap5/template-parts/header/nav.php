@@ -1,9 +1,8 @@
 <?php
 
 /*
-Navigation Header template
-@package CWT-Bootstrap5
-
+Navigation template file
+@package CWTBootstrap5
 */
 
 ?>

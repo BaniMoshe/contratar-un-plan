@@ -1,7 +1,7 @@
 <?php
 /*
 Footer template file
-@package CWT-Bootstrap5
+@package CWTBootstrap5
 */
 ?>
 
