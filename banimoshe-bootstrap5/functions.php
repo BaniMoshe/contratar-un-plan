@@ -13,6 +13,10 @@ if ( ! defined( 'CWTB5_DIR_URI' ) ) {
     define( 'CWTB5_DIR_URI' , untrailingslashit( get_template_directory_uri() ) );
 }
 
+if ( ! defined( 'CWTB5_MAX_WIDTH' ) ) {
+    define( 'CWTB5_MAX_WIDTH' , '1240' );
+}
+
 #Requiring the autoloader
 require_once( CWTB5_DIR_PATH . '/inc/helpers/autoloader.php' );
 
