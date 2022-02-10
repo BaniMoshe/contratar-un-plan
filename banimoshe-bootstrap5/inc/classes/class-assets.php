@@ -33,7 +33,7 @@ class Assets {
     public function register_scripts() {
         #Scripts
         wp_register_script( 'main_script_cwtb5' , CWTB5_DIR_URI . '/assets/main.js' , [ 'bootstrap5_min_js' ] , filemtime( CWTB5_DIR_PATH . '/assets/main.js' ) , 'false' );
-        wp_register_script( 'bootstrap5_min_js' , 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js' );
+        wp_register_script( 'bootstrap5_min_js' , 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js' , [] , false, true );
         wp_register_script( 'bootstrap5_bundle_min_js' , 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js' );
         wp_enqueue_script( 'main_script_cwtb5' );
         wp_enqueue_script( 'bootstrap5_min_js' );
